@@ -1,4 +1,4 @@
-Untitled
+BMI Calculator App
 ================
 
 ## BMI Calculator App for Developing Data Products Project
